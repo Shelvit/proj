@@ -11,8 +11,6 @@ public class MainApplication {
         System.out.println("33333");
     }
     public static void doSomthg() {
-        System.out.println("0");
-        System.out.println("2");
-        System.out.println("3");
+        System.out.println("Hello World");
     }
 }

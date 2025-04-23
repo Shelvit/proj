@@ -5,6 +5,7 @@ public class MainApplication {
         System.out.println("-----");
         System.out.println("Hello world!");
         System.out.println("11001");
+        doSomthg();
         System.out.println("-----");
 
         System.out.println("2222");

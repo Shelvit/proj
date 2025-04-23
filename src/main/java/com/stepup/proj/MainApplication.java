@@ -10,5 +10,7 @@ public class MainApplication {
     }
     public static void doSomthg() {
         System.out.println("sss");
+        System.out.println("222");
+        System.out.println("333");
     }
 }

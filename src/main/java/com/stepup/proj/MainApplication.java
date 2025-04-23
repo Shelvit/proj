@@ -2,6 +2,7 @@ package com.stepup.proj;
 
 public class MainApplication {
     public static void main(String[] args) {
+        System.out.println("-----");
         System.out.println("Hello world!");
         System.out.println("11001");
 
@@ -9,8 +10,8 @@ public class MainApplication {
         System.out.println("33333");
     }
     public static void doSomthg() {
-        System.out.println("sss");
-        System.out.println("222");
-        System.out.println("333");
+        System.out.println("0");
+        System.out.println("2");
+        System.out.println("3");
     }
 }
